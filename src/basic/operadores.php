@@ -19,4 +19,4 @@ $numero *= 20;
 $numero /= 5;
 
 // Concatenación
-$nombreCompleto = 'Carlos ' + 'Herrera Conejero';
+$nombreCompleto = 'Carlos ' . 'Herrera Conejero';
