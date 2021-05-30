@@ -7,6 +7,7 @@ $dividir = 4 / 2;
 $resto = 20 % 5;
 
 // valores para incremento y decremento:
+$numero = 1;
 $numero++;
 ++$numero;
 --$numero;
